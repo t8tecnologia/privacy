@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Política de Privacidade</title>
+<style>
+body{
+font-family: Arial, sans-serif;
+max-width: 800px;
+margin: 40px auto;
+padding: 20px;
+line-height: 1.6;
+color:#333;
+}
+h1{
+color:#111;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Política de Privacidade</h1>
+
+<p><strong>Última atualização:</strong> 08 de março de 2026</p>
+
+<p>Este aplicativo permite criar vídeos virais em segundos transformando qualquer ideia em vídeos prontos para TikTok, Reels ou Shorts utilizando tecnologias de inteligência artificial.</p>
+
+<h2>Informações coletadas</h2>
+
+<p>Podemos coletar informações fornecidas pelo usuário como textos, ideias ou prompts enviados para geração de vídeos.</p>
+
+<p>Também podemos coletar dados técnicos como tipo de dispositivo, sistema operacional e dados de uso para melhorar a experiência do aplicativo.</p>
+
+<h2>Uso das informações</h2>
+
+<p>As informações coletadas são utilizadas para gerar vídeos, melhorar os serviços, corrigir erros e garantir o funcionamento adequado da plataforma.</p>
+
+<h2>Serviços de terceiros</h2>
+
+<p>O aplicativo pode utilizar serviços de inteligência artificial como Gemini e Veo para geração de conteúdo. Esses serviços podem processar temporariamente dados enviados para criação dos vídeos.</p>
+
+<h2>Compartilhamento de dados</h2>
+
+<p>Não vendemos ou alugamos dados pessoais. Informações podem ser compartilhadas apenas quando necessário para operar o serviço ou cumprir obrigações legais.</p>
+
+<h2>Segurança</h2>
+
+<p>Adotamos medidas razoáveis para proteger as informações contra acesso não autorizado ou uso indevido.</p>
+
+<h2>Direitos do usuário</h2>
+
+<p>Usuários podem solicitar a exclusão de dados ou entrar em contato para dúvidas sobre privacidade.</p>
+
+<h2>Contato</h2>
+
+<p>Email: suporte@seuapp.com</p>
+
+</body>
+</html>
